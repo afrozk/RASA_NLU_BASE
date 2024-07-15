@@ -1,1 +1,1 @@
-# RASA_NLU_BASE
+RASA based Chatbot for food ordering and integration woith Slack
